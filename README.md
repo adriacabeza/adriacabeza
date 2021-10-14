@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Security Monitoring at **@datadog**
-- Learning Kubernetes
+- 🎻 Learning Kubernetes
 - 😄 Pronouns: he/him
 - 📌 Location: Paris
 
